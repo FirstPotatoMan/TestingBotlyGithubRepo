@@ -1,0 +1,12 @@
+{
+        "xml": "<xml xmlns='https://developers.google.com/blockly/xml'><block type='setup' id='xSh562M^2+@$ad}:f}uU' deletable='false' x='13' y='13'><statement name='Callback'><block type='controls_if' id='*_Eq49(uBXK/NO|AI.?@'><value name='IF0'><block type='logic_compare' id='Qr/J7Q|*i#@Q6clu-j2K'><field name='OP'>EQ</field><value name='B'><block type='math_arithmetic' id='2Ie}GKII,Lj[74jo[MI+'><field name='OP'>ADD</field><value name='A'><shadow type='math_number' id='LZMvCHIi?c#Ty#:iNy@}'><field name='NUM'>1</field></shadow></value><value name='B'><shadow type='math_number' id='|560P{,^nPmA1=fpS1~I'><field name='NUM'>1</field></shadow></value></block></value></block></value><statement name='DO0'><block type='controls_repeat_ext' id='C9!1a~){gr/l0WRdw?MT'><value name='TIMES'><shadow type='math_number' id='Kq9~~^N{6zEB{9yE1A*I'><field name='NUM'>10</field></shadow></value></block></statement><next><block type='controls_if' id='U.aAlsqaIo#r)|Wx5,7d'><value name='IF0'><block type='logic_compare' id='9;10!?[v7;Xw}URG*2tD'><field name='OP'>EQ</field><value name='B'><block type='math_arithmetic' id='=AhV*AmAbv|[QPk}N?=h'><field name='OP'>ADD</field><value name='A'><shadow type='math_number' id='n1c46FQ(RF!L$(?)I7^}'><field name='NUM'>1</field></shadow></value><value name='B'><shadow type='math_number' id=')bOy3,oUj5I`+W+PJFbT'><field name='NUM'>1</field></shadow></value></block></value></block></value><statement name='DO0'><block type='controls_repeat_ext' id='UXfM8qvO#X2D`{%04$)F'><value name='TIMES'><shadow type='math_number' id='Cd|I$+uI3iEbyfli{X?w'><field name='NUM'>10</field></shadow></value></block></statement></block></next></block></statement></block></xml>",
+        "packages": ["discord" ],
+        "description": "Does Cool Stuff",
+        "fontSize": "15",
+        "maxScale": "3",
+        "minScale": "0.3",
+        "name": "My Bot",
+        "renderer": "Thrasos",
+        "scroll": "False",
+        "version": "0.1"
+}
